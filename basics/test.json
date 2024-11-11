@@ -1,0 +1,25 @@
+{
+    "firstName": "Test",
+    "lastName": "User",
+    "emailId": "test@gmail.com",
+    "password": "test123"
+} 
+
+{
+    "emailId": "test@gmail.com",
+    "password": "test123"
+}
+
+{
+    "sessionId": "ac78309c71197a930bd9a3c79a0dc01b"
+}
+
+{
+    "sessionId": "invalid-session"
+}
+
+{
+    "firstName": "Test",
+    "lastName": "User",
+    "sessionId": "ac78309c71197a930bd9a3c79a0dc01b"
+  }
